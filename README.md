@@ -28,11 +28,11 @@ In the first quiz section class, we will teach everyone how to install VPN and V
 ### Course Materials
 
 1. **Week 1**
-    - [Course Introduction](https://docs.google.com/presentation/d/1irm6f_597hyhey9BYKEkVbB3bBQzU1G4p3oHtppQb24/edit?usp=drive_link) [video](https://www.youtube.com/watch?v=g7X-0ZqPzL8)
+    - [Course Introduction](https://docs.google.com/presentation/d/1irm6f_597hyhey9BYKEkVbB3bBQzU1G4p3oHtppQb24/edit?usp=drive_link) [ | video](https://www.youtube.com/watch?v=g7X-0ZqPzL8)
     - [Introduction of Quiz Section](https://docs.google.com/presentation/d/1PJ40RaYIXwg1lBDL0l0QjMlWqC8dfpFWs2NfCOagVZI/edit?usp=drive_link)
 2. **Week 2**
     - [Introduction of C](https://docs.google.com/presentation/d/1mxtRw9IMurEuYQmALd4GNznO8sRlQdYRCRT4L_YRmrw/edit?usp=sharing)
-    - [C Fundamentals (1)](https://docs.google.com/presentation/d/14gyfCr4CUjNIXjWKAERC_cy8BNGW-MzXzfOPDHWwuOo/edit?usp=sharing) [video](https://www.youtube.com/watch?v=mS85KhKwJ54)
+    - [C Fundamentals (1)](https://docs.google.com/presentation/d/14gyfCr4CUjNIXjWKAERC_cy8BNGW-MzXzfOPDHWwuOo/edit?usp=sharing) [ | video](https://www.youtube.com/watch?v=mS85KhKwJ54)
 3. **Week 3**
     - [C Fundamentals (2)](https://docs.google.com/presentation/d/1aJDajO0xpAN-PxdcN3LxRiI0iu914pXIICpRf3ygFIk/edit?usp=sharing)
 5. **Week 4**
