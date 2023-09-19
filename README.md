@@ -14,7 +14,8 @@ Welcome to the official GitHub repository for **112-1 Program Design (I) and Qui
 
 ### Course Announcements
 
-- **[Quiz Section 分組名單]** - **Important Note** - Check this link for the grouping list [here](https://docs.google.com/spreadsheets/d/1Na7fwBDgSD_P4pwyTW-TdVHAVfzVfI7Z5A2w-bC6SbU/edit#gid=0).
+- **[Quiz Section (Monday) 分組名單]** - **Important Note** - Check this link for the grouping list for Monday [here](https://docs.google.com/spreadsheets/d/1Na7fwBDgSD_P4pwyTW-TdVHAVfzVfI7Z5A2w-bC6SbU/edit#gid=0).
+- **[Quiz Section (Wednesday) 分組名單]** - **Important Note** - Check this link for the grouping list for Wednesday [update later]().
 
 ### DomJudge
 The following is the online Judge platform for submitting assignments and exercises. Please open your web browser and go to the following link:
@@ -35,6 +36,7 @@ In the first quiz section class, we will teach everyone how to install VPN and V
     - [C Fundamentals (1)](https://docs.google.com/presentation/d/14gyfCr4CUjNIXjWKAERC_cy8BNGW-MzXzfOPDHWwuOo/edit?usp=sharing) [ | video](https://www.youtube.com/watch?v=mS85KhKwJ54)
 3. **Week 3**
     - [C Fundamentals (2)](https://docs.google.com/presentation/d/1aJDajO0xpAN-PxdcN3LxRiI0iu914pXIICpRf3ygFIk/edit?usp=sharing)
+    - [Formatted I/O (1)](https://docs.google.com/presentation/d/1yKeDcI8wk3jahXsl8M3bni0Rqh0oSA-1ZYN0kDntwPM/edit?usp=sharing)
 5. **Week 4**
 
 ### Other Materials
