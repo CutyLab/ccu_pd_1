@@ -20,7 +20,7 @@ Welcome to the official GitHub repository for **112-1 Program Design (I) and Qui
 The following is the online Judge platform for submitting assignments and exercises. Please open your web browser and go to the following link:
 - URL：[140.123.101.169:9091](140.123.101.169:9091)
 - Username and password are your student ID. If you have not been assigned to a group yet, you do not have an account. Please inquire with the TA during the quiz section class.
-- If you are using an off-campus network, you must connect through VPN to access this platform.
+- If you are using an off-campus network, you must connect through a VPN to access this platform.
 
 ### Preparations for the First Quiz Section Class
 In the first quiz section class, we will teach everyone how to install VPN and VS code. To avoid any issues that may arise during individual installations, we recommend that students bring their own laptops. This will allow you to seek immediate assistance from the teacher and TAs if you encounter any problems during the installations.
