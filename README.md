@@ -38,7 +38,7 @@ In the first quiz section class, we will teach everyone how to install VPN and V
 5. **Week 4**
 
 ### Other Materials
- - [Pre-test](https://docs.google.com/forms/d/e/1FAIpQLSfXH1xeybl4jvIUoJNF1wi1FiNRbeuLTuNLX-faZrIYt4v3nA/viewform)
+ - [Programming Literacy Test (112-1)](https://docs.google.com/forms/d/e/1FAIpQLSfXH1xeybl4jvIUoJNF1wi1FiNRbeuLTuNLX-faZrIYt4v3nA/viewform)
 
 ### License
 
